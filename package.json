@@ -1,0 +1,17 @@
+{
+  "name": "hellopomeloscheduler",
+  "version": "1.0.0",
+  "description": "pomelo-scheduler demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pomelo-scheduler"
+  ],
+  "author": "xiaodong.li",
+  "license": "MIT",
+  "dependencies": {
+    "pomelo-schedule": "^0.3.7"
+  }
+}
